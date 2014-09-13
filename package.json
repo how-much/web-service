@@ -1,0 +1,14 @@
+{
+  "name": "exchange_rate_comparison",
+  "version": "1.0.0",
+  "description": "exchange-rate-comparison",
+  "main": "server.js",
+  "author": {
+    "name": "Robin Grindrod",
+    "email": "robingrindrod@live.ie"
+  },
+  "dependencies": {
+    "dateformat": "^1.0.8-1.2.3",
+    "xml2js": "^0.4.4"
+  }
+}
